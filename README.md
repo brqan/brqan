@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adri</h1>
+<h1 align="center">Hi, I'm Adrian</h1>
 <h3 align="center">A passionate data analyst from Spain living in Paris</h3>
 
 - 🔭 I’m currently working on **Veepee**

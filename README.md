@@ -69,6 +69,6 @@
 </p>
 
 ### Activity graph
-<p>
+
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="brqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?       username=brqan&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</p>
+

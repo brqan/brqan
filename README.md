@@ -64,4 +64,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brqan&theme=dark" alt="brqan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brqan&show_icons=true&theme=dark&locale=en&layout=compact" alt="brqan" /></p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brqan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+https://activity-graph.herokuapp.com/graph?username=brqan&theme=react

@@ -65,7 +65,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brqan&show_icons=true&theme=dark&locale=en&layout=compact" alt="brqan" /></p>
 
-<br/>
-<br>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="brqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brqan&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>

@@ -4,6 +4,15 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20and%20future%20Data%20Scientist;Machine%20Learning%20and%20AI%20passionate;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+<p align="center">
+  
+  <a href="https://twitter.com/anbrq"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/8ZwfDzqX" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
 
 - 🔭 I’m currently working on **Veepee**
 

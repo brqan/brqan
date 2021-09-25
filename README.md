@@ -35,14 +35,14 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
   </p>
   
-### 🧰 Frameworks and libraries
+### Frameworks and libraries
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### Databases and cloud hosting
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -50,7 +50,7 @@
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### Software and tools
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -59,10 +59,14 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+### Profile stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brqan&show_icons=true&theme=dark&locale=en" alt="brqan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brqan&theme=dark" alt="brqan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brqan&show_icons=true&theme=dark&locale=en&layout=compact" alt="brqan" /></p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="brqan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brqan&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+### Activity graph
+<p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><src="https://activity-graph.herokuapp.com/graph?username=brqan&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>

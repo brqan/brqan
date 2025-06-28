@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Barquero</h1>
 <h3 align="center">A passionate Data Science enthusiast from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brqan" alt="brqan" /></a> </p>
-
 - 🔭 I’m currently working on **Capgemini**
 
 - 🌱 I’m currently learning **Flutter, App Development, AI**
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brqan&show_icons=true&locale=en&layout=compact" alt="brqan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brqan&show_icons=true&locale=en" alt="brqan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brqan&" alt="brqan" /></p>
